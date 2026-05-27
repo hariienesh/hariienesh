@@ -1,4 +1,4 @@
-### 🌱 figuring out how computers actually work under the hood
+### `🌱 figuring out how computers actually work under the hood`
 
 spending most of my time around:
 - computer architecture
